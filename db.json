@@ -1,9 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "admin": {
+    "id": "admin-001",
+    "email": "anthonymaundu1@gmail.com",
+    "password": "$2b$10$18pcucg67V8RjEicTQbW/OZ5O2vhMmFDEbfbzEci8wf0XbvxKNkOe",
+    "name": "Admin User",
+    "role": "admin",
+    "phone": "+254706972321",
+    "createdAt": "2025-12-02T21:04:16.766Z",
+    "lastLogin": "2025-12-02T21:24:12.982Z",
+    "isActive": true
+  },
+  "supervisors": [],
+  "workers": [],
+  "checkIns": [],
+  "accessDenied": [],
+  "roles": [],
+  "projects": [],
+  "tasks": [],
+  "adminHandover": []
 }
